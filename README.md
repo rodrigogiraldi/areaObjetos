@@ -9,8 +9,9 @@ Quando é terminado este processo, plota-se o histograma da imagem final, o qual
 
 A seguir estão alguns exemplos testados, onde tem-se a imagem de entrada em preto e branco, como saída tem-se a imagem com cada um dos objetos preenchidos com um nível diferente, além do histograma correspondente.
 
-### Exemplo de execução:
+### Exemplos de execução:
 
+**Objetos1**
 
 Input:
 
@@ -23,3 +24,34 @@ Output:
 Histograma:
 
 ![](https://raw.githubusercontent.com/rodrigogiraldi/areaObjetos/master/histogramas/objetos1.png)
+
+
+**Objetos2**
+
+Input:
+
+![](https://raw.githubusercontent.com/rodrigogiraldi/areaObjetos/master/inputs/objetos2.png)
+
+Output:
+
+![](https://raw.githubusercontent.com/rodrigogiraldi/areaObjetos/master/outputs/objetos2.png)
+
+Histograma:
+
+![](https://raw.githubusercontent.com/rodrigogiraldi/areaObjetos/master/histogramas/objetos2.png)
+
+
+**Objetos3**
+
+Input:
+
+![](https://raw.githubusercontent.com/rodrigogiraldi/areaObjetos/master/inputs/objetos3.png)
+
+Output:
+
+![](https://raw.githubusercontent.com/rodrigogiraldi/areaObjetos/master/outputs/objetos3.png)
+
+Histograma:
+
+![](https://raw.githubusercontent.com/rodrigogiraldi/areaObjetos/master/histogramas/objetos3.png)
+
